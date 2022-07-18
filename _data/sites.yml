@@ -93,3 +93,7 @@
   method: mediaquery
   last_checked: 2022-07-17
   
+- domain: bernsteinbear.com
+  url: https://bernsteinbear.com/
+  method: mediaquery
+  last_checked: 2022-07-18
